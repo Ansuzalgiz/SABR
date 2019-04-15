@@ -43,7 +43,7 @@ Prototypes were printed using these parameters:
 
 # Assembly
 
-[Assembly guide on the repository wiki](http://github.com/Ansuzalgiz/SABR/wiki)
+[Assembly guide on the repository wiki](https://github.com/Ansuzalgiz/SABR/wiki/Assembly)
 
 # Purchasing 3D Printed Parts
 
